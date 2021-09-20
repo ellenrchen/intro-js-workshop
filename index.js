@@ -1,3 +1,5 @@
+// https://www.w3schools.com/howto/howto_js_todolist.asp
+
 // Create a "close" button and append it to each list item
 var taskList = document.getElementsByTagName("LI");
 var i;
